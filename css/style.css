@@ -214,7 +214,7 @@ html, body {
   width: 100%;
 }
 .carta{
-    height: 60vh;
+    height:70vh;
     width: 80%;
     left: 10%;
   position: sticky;
@@ -946,9 +946,13 @@ footer{
 }
 }
 @media print {
+    html h1, html h2, html h3, html h4, html h5, html h6, html p, html a {
+        color: black !important;
+        text-decoration: none !important;
+        font-size: 60% !important;
+    }
     body {
         background: white !important;
-        color: black !important;
     }
     #backgroundgif, #menu, #fondocartas, footer, .boton {
         display: none !important;
