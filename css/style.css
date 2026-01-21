@@ -441,7 +441,6 @@ html, body {
     gap: 2rem;
     width: 100%;
     min-height: 45px;
-
 }
 .cartaidioma{
     background-color: #ffffff00;
@@ -452,7 +451,6 @@ html, body {
     text-align: center;
     cursor: pointer;
 }
-
 .textrevelar{
     opacity: 0;
     margin-top: 0px;
@@ -508,7 +506,7 @@ html, body {
   width: 100%;
 }
 .carta{
-    height: 60vh;
+    height: 74vh;
     width: 60%;
     left: 20%;
   position: sticky;
@@ -551,15 +549,20 @@ html, body {
     margin-top: 10px;
 }
 #carta2 {
+    padding: 15px;
     display: flex;
+    justify-content: center;
+    align-items: center;
     flex-direction: column;
     background-color: rgb(132, 132, 132);
     z-index: 2;
+    margin-top: 50px;
 }
 #imagenmultiboot img{
-    width: fit-content;
-    max-width: 400px; 
+    width: auto;
+    max-width: 300px; 
     height: auto;
+    bottom: 0%;
 }
 #carta3 {
     background-color: rgb(255, 255, 255);

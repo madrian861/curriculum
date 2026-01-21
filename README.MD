@@ -1,6 +1,6 @@
 Currículum vitae interactiu creat amb HTML5 semàntic i CSS3 pur, sense frameworks. Està dissenyat seguint l'estratègia mobile-first i responsive .
 Deploy
-
+https://curriculum-4n5q.vercel.app/#Proyectos
 Estructura i Funcionament
 Estructura: Organitzat en index.html per al contingut, /css per als estils i /assets per a imatges i el favicon .
 Layout: Maquetació realitzada amb CSS Grid i Flexbox per garantir l'adaptabilitat.
