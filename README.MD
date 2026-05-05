@@ -1,10 +1,21 @@
-Currículum vitae interactiu creat amb HTML5 semàntic i CSS3 pur, sense frameworks. Està dissenyat seguint l'estratègia mobile-first i responsive .
-Deploy
-https://curriculum-1grq.vercel.app/
-Estructura i Funcionament
-Estructura: Organitzat en index.html per al contingut, /css per als estils i /assets per a imatges i el favicon .
-Layout: Maquetació realitzada amb CSS Grid i Flexbox per garantir l'adaptabilitat.
-Mode Imprès: Optimitzat amb @media print per amagar elements innecessaris.
-IA: S'ha utilitzat intel·ligència artificial exclusivament per a la correcció de textos i revisions del codi .
-Inspiració
-El disseny visual i l'estructura de la pàgina s'han inspirat en el portafoli de Melanie Daveid, buscant un estil net i professional: https://www.melaniedaveid.com/
+# Currículum Vitae Responsive 📄
+
+### 📝 Descripció
+Aquest projecte consisteix en una pàgina web personal que serveix com a currículum interactiu. El disseny se centra en la claredat de la informació i en una experiència d'usuari fluida.
+
+### 🎯 Context
+Projecte realitzat per a l'assignatura de Desenvolupament Web (HTML/CSS). L'objectiu era dominar el disseny adaptatiu i les propietats avançades de posicionament.
+
+### 🛠 Tecnologies utilitzades
+*   **HTML5:** Estructura semàntica del contingut.
+*   **CSS3:**
+    *   **Sticky Positioning:** Implementació d'efecte scroll a les targetes de contingut.
+    *   **Flexbox/Grid:** Per a la barra de navegació horitzontal i l'estructura general.
+    *   **Media Queries:** Disseny 100% responsive (mòbil, tauleta i escriptori).
+
+### 📸 Captures de pantalla
+*(Pots afegir aquí una imatge del teu projecte així: `![Captura del CV](enllaç-a-la-imatge)`)*
+
+### 🚀 Com executar-lo
+1. Clona aquest repositori: `git clone https://github.com/madrian861/curriculum/edit/main.git`
+2. Obre el fitxer `index.html` en qualsevol navegador web actual.
